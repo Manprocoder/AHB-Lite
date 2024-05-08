@@ -1,0 +1,65 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Feb  7 14:19:48 2024
+[*]
+[dumpfile] "/home/duc/WS/RTL_frank/frk_rtl/IPs/TEMPLATE/RTL/IPs/fsm_on/veri/TB.vcd"
+[dumpfile_mtime] "Wed Feb  7 14:18:31 2024"
+[dumpfile_size] 12580
+[savefile] "/home/duc/WS/RTL_frank/frk_rtl/IPs/TEMPLATE/RTL/IPs/fsm_on/veri/FRK_SIM.gtkw"
+[timestart] 1031600
+[size] 1920 1017
+[pos] 1489 -35
+*-15.284195 2205000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TB.
+[sst_width] 214
+[signals_width] 321
+[sst_expanded] 1
+[sst_vpaned_height] 291
+@800200
+-HOST
+@28
+TB.u_ctrl_mst.mclk
+TB.u_ctrl_mst.mctrl
+@1000200
+-HOST
+@200
+-
+@800200
+-TB
+@28
+TB.mclk
+TB.mrst
+@420
+TB.clk_cter
+@200
+-
+@28
+TB.w_mclk
+TB.w_mctrl
+TB.w_i_clk
+TB.w_i_resetn
+TB.w_i_control
+@29
+TB.w_o_on
+@1000200
+-TB
+@200
+-
+@800200
+-IP
+@28
+TB.u_fsm_on.i_clk
+TB.u_fsm_on.i_resetn
+TB.u_fsm_on.i_control
+@22
+TB.u_fsm_on.cur_st[4:0]
+TB.u_fsm_on.nxt_st[4:0]
+@28
+TB.u_fsm_on.o_on
+@1000200
+-IP
+@200
+-
+-
+[pattern_trace] 1
+[pattern_trace] 0
